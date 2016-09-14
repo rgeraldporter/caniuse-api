@@ -17,7 +17,7 @@ test("parseCaniuseData should work", (t) => {
   let correctSupport = {
     safari: { y: 3.1, x: 4, '#1': 6.1 },
     opera: { n: 10, y: 10.5 },
-    op_mini: { },
+    op_mini: {},
     ios_saf: { y: 3.2, x: 3.2 },
     ie_mob: { y: 10 },
     ie: { n: 8, y: 9 },
